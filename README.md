@@ -2,7 +2,7 @@
 
 **Doc: https://www.crummy.com/software/BeautifulSoup/bs4/doc/**
 
-O html usado: https://natosafe.com.br/beneficios-da-inteligencia-artificial/
+O html usado: https://santodigital.com.br/
 
 1. ` pip install beautifulsoup4 `
 2.
